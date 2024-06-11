@@ -3,7 +3,7 @@
 
 ![这个难用的编辑器是我的motivation](teaser.png)
 
-文章和代码同步在github: https://github.com/sailing-innocent/another_side_of_blender.git
+文章和代码同步在github: [github](https://github.com/sailing-innocent/another_side_of_blender.git)
 
 blender是一个轻量好用的开源建模软件，同时也包含了不少渲染和特效功能。但程序员们上手blender总有些不适应，更习惯跟着图文代码验证而不习惯跟着教程视频一步步走，更习惯直接设定数值而不是慢慢凭感觉调整。但很不幸，市面上九成九的blender教程都是面向美术的，不幸中的万幸在于，blender提供了一种邪道用法：直接将整个blender作为一个python module来导入。
 
