@@ -3,6 +3,8 @@
 
 ![这个难用的编辑器是我的motivation](teaser.png)
 
+文章和代码同步在github: https://github.com/sailing-innocent/another_side_of_blender.git
+
 blender是一个轻量好用的开源建模软件，同时也包含了不少渲染和特效功能。但程序员们上手blender总有些不适应，更习惯跟着图文代码验证而不习惯跟着教程视频一步步走，更习惯直接设定数值而不是慢慢凭感觉调整。但很不幸，市面上九成九的blender教程都是面向美术的，不幸中的万幸在于，blender提供了一种邪道用法：直接将整个blender作为一个python module来导入。
 
 也许你会说，啊我知道blender有脚本功能啊，毕竟哪个大型软件没有？不就是写几十行python脚本运行吗？但是有脚本也没用，用blender内置环境里那个糟糕的编辑器能和我平时用vscode写的python工程一样快乐吗？能封装吗？能复用吗？能接数据库吗？能嵌入python的生态吗？numpy? pytorch? 难不成我还需要在blender里面安装一套工具链？
