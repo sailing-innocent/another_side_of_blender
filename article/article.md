@@ -269,10 +269,13 @@ if __name__ == "__main__":
     manual_cube(subfolder="demo", filename="manual_cube")
 ```
 
-最后得到的场景类似这样：![manual_cube](demo/manual_cube.png)
+最后得到的场景类似这样：![manual_cube](manual_cube.png)
 
 ## 小结
 
 至此其实我们已经形成了一套工作流，之后的事情其实和你直接使用blender脚本的区别不大了，这一套的缺点在于没有GUI不够直观，但是好处非常明显，就是可以无缝衔接其他强大的python功能，做动画，做可视化，用pytorch，用你自己的pybind渲染器，连数据库，连网络，搭服务器……想象力可以更丰富些。
 
 之后我还打算分享一些使用blender创作动画，怎么使用自己的渲染引擎，做一些简单的噪声地形，编辑材质纹理之类的，敬请期待。
+
+- 使用Blender脚本来写Jacobian IK [文章](https://zhuanlan.zhihu.com/p/702879568)
+- 注册自己的渲染引擎：TODO
